@@ -79,4 +79,4 @@ This document provides instructions for setting up, configuring, and troubleshoo
 
 ## Snapshots
 
-<img src="./Frontend/src/assets/home-snapshot.png" alt="home page"/>
+![Snapshots](1.JPG)
